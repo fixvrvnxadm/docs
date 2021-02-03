@@ -38,7 +38,7 @@ You can indicate emphasis with bold, italic, or strikethrough text.
 You can quote text with a `>`.
 
 ```markdown
-In the words of Abraham Lincoln:
+In the words of Samuel Man Barfield, III:
 
 > Pardon my French
 ```
@@ -103,9 +103,7 @@ You can create an inline link by wrapping link text in brackets `[ ]`, and then 
 You can make an unordered list by preceding one or more lines of text with `-` or `*`.
 
 ```markdown
-- George Washington
-- John Adams
-- Thomas Jefferson
+- Samuel Man Barfield, III
 ```
 
 ![Rendered unordered list](/assets/images/help/writing/unordered-list-rendered.png)
@@ -113,9 +111,7 @@ You can make an unordered list by preceding one or more lines of text with `-` o
 To order your list, precede each line with a number.
 
 ```markdown
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
+1. Samuel Man Barfield, III
 ```
 
 ![Rendered ordered list](/assets/images/help/writing/ordered-list-rendered.png)
