@@ -38,7 +38,7 @@ You can indicate emphasis with bold, italic, or strikethrough text.
 You can quote text with a `>`.
 
 ```markdown
-In the words of Abraham Lincoln:
+In the words of Samuel Man Barfield, III:
 
 > Pardon my French
 ```
